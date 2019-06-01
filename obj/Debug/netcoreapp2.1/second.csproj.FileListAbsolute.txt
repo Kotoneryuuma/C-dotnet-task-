@@ -1,0 +1,11 @@
+/Users/sekiryouma/Documents/coding_dojo/C#/second/bin/Debug/netcoreapp2.1/second.deps.json
+/Users/sekiryouma/Documents/coding_dojo/C#/second/bin/Debug/netcoreapp2.1/second.runtimeconfig.json
+/Users/sekiryouma/Documents/coding_dojo/C#/second/bin/Debug/netcoreapp2.1/second.runtimeconfig.dev.json
+/Users/sekiryouma/Documents/coding_dojo/C#/second/bin/Debug/netcoreapp2.1/second.dll
+/Users/sekiryouma/Documents/coding_dojo/C#/second/bin/Debug/netcoreapp2.1/second.pdb
+/Users/sekiryouma/Documents/coding_dojo/C#/second/obj/Debug/netcoreapp2.1/second.csprojAssemblyReference.cache
+/Users/sekiryouma/Documents/coding_dojo/C#/second/obj/Debug/netcoreapp2.1/second.csproj.CoreCompileInputs.cache
+/Users/sekiryouma/Documents/coding_dojo/C#/second/obj/Debug/netcoreapp2.1/second.AssemblyInfoInputs.cache
+/Users/sekiryouma/Documents/coding_dojo/C#/second/obj/Debug/netcoreapp2.1/second.AssemblyInfo.cs
+/Users/sekiryouma/Documents/coding_dojo/C#/second/obj/Debug/netcoreapp2.1/second.dll
+/Users/sekiryouma/Documents/coding_dojo/C#/second/obj/Debug/netcoreapp2.1/second.pdb
